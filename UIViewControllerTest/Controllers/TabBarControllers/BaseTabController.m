@@ -15,7 +15,6 @@
 @implementation BaseTabController
 
 - (void)loadView {
-    [super loadView];
     NSLog(@"TabBarItemController | loadView");
 }
 
